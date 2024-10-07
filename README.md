@@ -11,7 +11,7 @@ Welcome to the **Fractal Aliens Interactive Galaxy Map**, a visually stunning an
   
 ## 🌌 **Fractal Aliens Collection** 🌌
 Discover the full Fractal Aliens NFT collection here:  
-[**Fractal Aliens NFT Collection**](https://fractal.unisat.io/collection)
+[**Fractal Aliens NFT Collection**](https://fractal.unisat.io/market/collection?collectionId=fractal_aliens)
 
 
 ## 🖼 **Visuals**
