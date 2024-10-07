@@ -11,7 +11,7 @@ Welcome to the **Fractal Aliens Interactive Galaxy Map**, a visually stunning an
   
 ## 🌌 **Fractal Aliens Collection** 🌌
 Discover the full Fractal Aliens NFT collection here:  
-[**Fractal Aliens NFT Collection**]([[https://fractal.unisat.io/collection](https://fractal.unisat.io/market/collection?collectionId=fractal_aliens)](https://fractal.unisat.io/market/collection?collectionId=fractal_aliens))
+[**Fractal Aliens NFT Collection**]([[https://fractal.unisat.io/collection](https://fractal.unisat.io/market/collection?collectionId=fractal_aliens)]
 
 ## 🖼 **Visuals**
 Explore galaxies, planets, and aliens through a sleek UI with **custom graphics** for galaxies, planets, and aliens—all rendered in high-quality visuals. Each alien's image is loaded dynamically via a **threaded image loader** for smooth, lag-free performance.
