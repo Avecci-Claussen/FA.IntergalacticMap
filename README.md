@@ -35,7 +35,7 @@ Explore galaxies, planets, and aliens through a sleek UI with **custom graphics*
 To run the project locally:
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/fractal-aliens-map.git
+   git clone https://github.com/Avecci-Claussen/FA.IntergalacticMap
    ```
 2. **Install dependencies**:
    ```bash
